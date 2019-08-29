@@ -8,9 +8,9 @@ for finding the Approximate Nearest Neighbor(NN).
 2nd part:
 
 Implementation of Clustering Algorithm in real tweet data.
-  Initialization:Random Init,K-Means++
-  Assignment:Lloyd’s,Range LSH search,Range Hypercube Search
-  Update:Lloyd’s,Partioning around medoids-PAM-
+  (Initialization:Random Init,K-Means++,
+  Assignment:Lloyd’s,Range LSH search,Range Hypercube Search,
+  Update:Lloyd’s,Partioning around medoids-PAM-.)
 
 3rd part:
 
