@@ -1,0 +1,2829 @@
+Query: item_idS1
+item_id4010
+item_id883
+item_id191
+Nearest neighbor: item_id883
+distanceCubeLSH: 282.315
+distanceTrue: 276.782
+tCubeLSH: 0.001491
+tReal: 0.014684
+Query: item_idS2
+item_id9808
+item_id3409
+item_id1323
+item_id1544
+item_id9565
+item_id9537
+item_id1117
+item_id98
+item_id9575
+item_id1151
+item_id9521
+item_id3137
+Nearest neighbor: item_id9575
+distanceCubeLSH: 259.913
+distanceTrue: 256.852
+tCubeLSH: 0.001638
+tReal: 0.016304
+Query: item_idS3
+item_id7414
+item_id8638
+item_id6300
+item_id9466
+item_id5295
+item_id5196
+item_id3237
+item_id1822
+item_id3817
+item_id3377
+item_id2482
+item_id1891
+item_id1274
+item_id6136
+item_id5006
+item_id4850
+item_id1343
+item_id1252
+item_id1154
+item_id1145
+Nearest neighbor: item_id5196
+distanceCubeLSH: 260.227
+distanceTrue: 206.737
+tCubeLSH: 0.002106
+tReal: 0.014639
+Query: item_idS4
+item_id9583
+item_id3999
+item_id3886
+item_id9938
+item_id9693
+item_id4270
+item_id684
+item_id485
+item_id271
+item_id4098
+item_id1802
+item_id147
+Nearest neighbor: item_id9583
+distanceCubeLSH: 242.207
+distanceTrue: 215.177
+tCubeLSH: 0.002048
+tReal: 0.014171
+Query: item_idS5
+item_id4725
+item_id1672
+item_id5209
+item_id4720
+item_id1539
+item_id74
+item_id5759
+Nearest neighbor: item_id4720
+distanceCubeLSH: 250.509
+distanceTrue: 250.509
+tCubeLSH: 0.001683
+tReal: 0.014147
+Query: item_idS6
+Nearest neighbor: item_id536
+distanceCubeLSH: 319.598
+distanceTrue: 275.151
+tCubeLSH: 0.002228
+tReal: 0.014148
+Query: item_idS7
+item_id2039
+item_id3549
+item_id1624
+item_id8001
+item_id3624
+item_id695
+Nearest neighbor: item_id8001
+distanceCubeLSH: 278.799
+distanceTrue: 246.609
+tCubeLSH: 0.001436
+tReal: 0.014126
+Query: item_idS8
+item_id9395
+item_id5752
+item_id7289
+item_id6640
+item_id9033
+item_id4649
+item_id9730
+item_id9340
+item_id7704
+item_id7628
+item_id7284
+item_id7179
+item_id6647
+item_id6333
+item_id5672
+item_id5448
+item_id2684
+item_id2373
+item_id2337
+item_id2295
+item_id2022
+item_id1906
+item_id8164
+item_id7898
+item_id7686
+item_id7232
+item_id7172
+item_id7098
+item_id6971
+item_id6721
+item_id6712
+item_id6613
+item_id6377
+item_id6112
+item_id6018
+item_id45
+item_id9250
+item_id6147
+item_id2503
+Nearest neighbor: item_id5448
+distanceCubeLSH: 173.948
+distanceTrue: 173.948
+tCubeLSH: 0.001128
+tReal: 0.01415
+Query: item_idS9
+item_id5721
+item_id5003
+item_id4738
+item_id4480
+item_id3383
+item_id515
+item_id3601
+item_id2941
+item_id1526
+item_id1525
+item_id766
+item_id1563
+item_id1660
+item_id1547
+item_id9729
+item_id8737
+item_id550
+item_id74
+item_id8271
+item_id7829
+item_id7400
+item_id7051
+item_id6923
+item_id5541
+item_id4560
+item_id4485
+item_id9612
+item_id8382
+item_id7573
+item_id4392
+item_id4305
+item_id3913
+item_id784
+item_id8223
+item_id1068
+item_id9629
+item_id1099
+Nearest neighbor: item_id9629
+distanceCubeLSH: 248.473
+distanceTrue: 248.473
+tCubeLSH: 0.002436
+tReal: 0.0142
+Query: item_idS10
+item_id7183
+item_id4597
+item_id7574
+item_id4716
+item_id4625
+item_id4738
+item_id1672
+Nearest neighbor: item_id1672
+distanceCubeLSH: 269.247
+distanceTrue: 250.014
+tCubeLSH: 0.001497
+tReal: 0.014171
+Query: item_idS11
+item_id1219
+Nearest neighbor: item_id1219
+distanceCubeLSH: 293.883
+distanceTrue: 293.883
+tCubeLSH: 0.001741
+tReal: 0.014171
+Query: item_idS12
+item_id3051
+item_id2994
+item_id492
+item_id333
+item_id9097
+item_id7573
+item_id6501
+item_id4878
+item_id4698
+item_id4695
+item_id4392
+item_id3913
+item_id2919
+item_id2829
+item_id2073
+item_id1661
+item_id1548
+item_id1527
+item_id946
+item_id609
+item_id2768
+item_id1827
+item_id8589
+item_id3666
+item_id1208
+item_id4952
+item_id3890
+item_id3667
+item_id1301
+item_id1823
+item_id5260
+item_id4821
+item_id4776
+item_id4699
+item_id4679
+item_id4646
+item_id1749
+item_id7264
+item_id5977
+item_id5555
+item_id5407
+item_id4730
+item_id4726
+item_id4539
+item_id4464
+item_id3468
+item_id1526
+item_id1525
+item_id881
+item_id516
+item_id62
+item_id2638
+item_id9418
+item_id5320
+item_id4778
+item_id4648
+item_id1916
+item_id118
+item_id116
+item_id104
+item_id9417
+item_id9299
+item_id9258
+item_id8215
+item_id7024
+item_id6491
+item_id5634
+item_id4402
+item_id3165
+item_id1660
+item_id1547
+item_id1136
+item_id117
+item_id8649
+item_id5653
+item_id4806
+item_id1466
+item_id4700
+item_id961
+item_id7948
+item_id2654
+item_id2535
+item_id1360
+Nearest neighbor: item_id4698
+distanceCubeLSH: 172.163
+distanceTrue: 172.163
+tCubeLSH: 0.00212
+tReal: 0.014151
+Query: item_idS13
+item_id1835
+item_id806
+item_id9645
+item_id2910
+item_id2352
+item_id289
+item_id1627
+item_id1708
+item_id4096
+item_id3983
+item_id1070
+item_id372
+item_id282
+item_id9555
+item_id4098
+item_id4058
+item_id3649
+item_id3413
+item_id2183
+item_id2115
+Nearest neighbor: item_id1835
+distanceCubeLSH: 261.446
+distanceTrue: 238.55
+tCubeLSH: 0.002667
+tReal: 0.014153
+Query: item_idS14
+item_id9603
+item_id1364
+Nearest neighbor: item_id9603
+distanceCubeLSH: 274.509
+distanceTrue: 244.677
+tCubeLSH: 0.000954
+tReal: 0.014159
+Query: item_idS15
+item_id70
+item_id715
+Nearest neighbor: item_id715
+distanceCubeLSH: 278.307
+distanceTrue: 273.317
+tCubeLSH: 0.00195
+tReal: 0.014193
+Query: item_idS16
+item_id4210
+item_id5737
+item_id8989
+item_id8215
+item_id705
+item_id74
+item_id21
+item_id3151
+Nearest neighbor: item_id5737
+distanceCubeLSH: 270.871
+distanceTrue: 253.683
+tCubeLSH: 0.001827
+tReal: 0.014167
+Query: item_idS17
+item_id2910
+item_id2579
+item_id1379
+item_id1156
+item_id289
+item_id4045
+item_id2732
+item_id9823
+item_id9607
+item_id9594
+item_id9579
+item_id4058
+item_id4037
+item_id3778
+item_id3491
+item_id3413
+item_id1874
+item_id471
+item_id1296
+item_id1273
+item_id1046
+item_id189
+item_id9695
+item_id1566
+item_id3711
+item_id2851
+item_id3460
+item_id2393
+item_id672
+item_id2961
+item_id2973
+Nearest neighbor: item_id2579
+distanceCubeLSH: 255.317
+distanceTrue: 248.2
+tCubeLSH: 0.002841
+tReal: 0.014125
+Query: item_idS18
+item_id9212
+item_id3688
+item_id3677
+item_id2114
+item_id807
+item_id157
+item_id1182
+item_id26
+item_id1459
+item_id3043
+item_id1982
+item_id1700
+Nearest neighbor: item_id26
+distanceCubeLSH: 279.296
+distanceTrue: 254.635
+tCubeLSH: 0.002716
+tReal: 0.014161
+Query: item_idS19
+item_id2615
+item_id1399
+item_id1253
+item_id1119
+item_id1457
+item_id165
+item_id308
+item_id1904
+item_id1890
+item_id1639
+item_id7982
+item_id2223
+item_id1422
+item_id1049
+item_id5286
+Nearest neighbor: item_id1639
+distanceCubeLSH: 275.601
+distanceTrue: 266.889
+tCubeLSH: 0.002525
+tReal: 0.014216
+Query: item_idS20
+item_id3610
+item_id3248
+item_id3628
+item_id2313
+item_id220
+item_id3044
+item_id505
+item_id9632
+item_id9577
+item_id9542
+item_id3614
+item_id1182
+item_id155
+item_id4061
+item_id9521
+item_id4448
+item_id1489
+item_id1600
+item_id9583
+item_id4323
+item_id3999
+item_id3886
+item_id3366
+item_id1700
+item_id9694
+item_id1708
+item_id288
+item_id8479
+item_id2177
+item_id7492
+Nearest neighbor: item_id1700
+distanceCubeLSH: 224.751
+distanceTrue: 224.751
+tCubeLSH: 0.001215
+tReal: 0.014182
+Query: item_idS21
+item_id9946
+item_id5788
+item_id4761
+item_id8142
+item_id5200
+item_id5074
+item_id4226
+item_id1947
+item_id2132
+item_id9960
+item_id9122
+item_id4677
+item_id8504
+item_id7101
+item_id6915
+item_id6797
+item_id5761
+item_id9298
+item_id7813
+item_id6300
+item_id5991
+item_id5280
+item_id4857
+Nearest neighbor: item_id4761
+distanceCubeLSH: 204.778
+distanceTrue: 192.984
+tCubeLSH: 0.001753
+tReal: 0.014152
+Query: item_idS22
+item_id6424
+item_id5303
+item_id5058
+item_id5279
+item_id9398
+item_id9384
+item_id9356
+item_id8309
+item_id8003
+item_id6931
+item_id5960
+item_id5627
+item_id5380
+item_id5321
+item_id5235
+item_id5207
+item_id5048
+item_id4742
+item_id4739
+item_id4710
+item_id4709
+item_id4705
+item_id4664
+item_id4561
+item_id4491
+item_id4458
+item_id548
+item_id6605
+item_id1602
+item_id733
+item_id5355
+item_id1400
+item_id9525
+item_id8895
+item_id5568
+item_id4568
+item_id1123
+item_id411
+item_id8988
+item_id8217
+item_id5018
+item_id4795
+item_id4509
+item_id1563
+item_id167
+item_id4849
+item_id4771
+item_id4682
+item_id8763
+item_id4777
+item_id4507
+item_id9465
+item_id6964
+item_id4635
+item_id1903
+Nearest neighbor: item_id4491
+distanceCubeLSH: 80.8455
+distanceTrue: 80.8455
+tCubeLSH: 0.001415
+tReal: 0.014139
+Query: item_idS23
+item_id9883
+item_id8217
+item_id8180
+item_id6384
+item_id4795
+item_id4593
+item_id4509
+item_id1425
+item_id6
+item_id9215
+item_id7643
+item_id7422
+item_id5409
+item_id4983
+item_id4958
+item_id4904
+item_id4785
+item_id4729
+item_id4715
+item_id4662
+item_id4485
+item_id2985
+item_id2536
+item_id935
+item_id785
+item_id623
+item_id554
+item_id491
+item_id8721
+item_id5571
+item_id4830
+item_id4591
+item_id4505
+item_id8590
+item_id5945
+item_id5721
+item_id5620
+item_id5432
+item_id5003
+item_id4738
+item_id4549
+item_id4480
+item_id1135
+item_id435
+item_id60
+item_id5303
+item_id5058
+item_id2258
+item_id7328
+item_id6416
+item_id5573
+item_id5556
+item_id4807
+item_id4585
+item_id4570
+item_id7638
+item_id5139
+item_id4828
+item_id163
+item_id106
+item_id59
+item_id55
+item_id9398
+item_id9384
+item_id9356
+item_id7184
+item_id6867
+item_id6502
+item_id5380
+item_id5321
+item_id5235
+item_id5048
+item_id4926
+item_id4742
+item_id4739
+item_id4710
+item_id4709
+item_id4705
+item_id4664
+item_id4614
+item_id4561
+item_id5019
+item_id7399
+item_id5260
+item_id5042
+item_id4776
+item_id4699
+item_id4679
+item_id4646
+item_id746
+item_id8972
+item_id8500
+item_id7806
+item_id7642
+item_id7310
+item_id7264
+item_id6932
+item_id6521
+item_id6415
+item_id5977
+item_id5555
+item_id5407
+item_id4730
+item_id4726
+item_id4674
+item_id4553
+item_id4539
+item_id4464
+item_id3468
+item_id2941
+item_id1526
+item_id1525
+item_id881
+item_id516
+item_id501
+item_id334
+item_id62
+item_id4568
+item_id378
+item_id332
+item_id4740
+item_id4569
+item_id9417
+item_id9299
+item_id9258
+item_id6491
+item_id5634
+item_id3165
+item_id1660
+item_id1136
+item_id7744
+item_id167
+item_id160
+Nearest neighbor: item_id4958
+distanceCubeLSH: 173.052
+distanceTrue: 173.052
+tCubeLSH: 0.003044
+tReal: 0.014152
+Query: item_idS24
+item_id8146
+item_id5084
+item_id1145
+item_id5289
+item_id5776
+item_id5327
+item_id593
+item_id9619
+item_id4597
+Nearest neighbor: item_id8146
+distanceCubeLSH: 263.782
+distanceTrue: 253.941
+tCubeLSH: 0.001494
+tReal: 0.01419
+Query: item_idS25
+item_id6507
+item_id1344
+item_id4658
+item_id1791
+item_id8363
+item_id5961
+item_id5571
+item_id4830
+item_id4591
+item_id6657
+item_id5303
+item_id5058
+item_id2258
+item_id1423
+item_id653
+item_id4558
+item_id8950
+item_id706
+item_id4535
+item_id6605
+item_id1602
+item_id733
+item_id7127
+item_id1002
+item_id8914
+item_id5589
+item_id5568
+item_id4568
+item_id1123
+item_id9144
+item_id8217
+item_id4795
+item_id4509
+item_id3479
+item_id1915
+item_id1563
+item_id7100
+item_id248
+item_id167
+item_id160
+Nearest neighbor: item_id653
+distanceCubeLSH: 232.08
+distanceTrue: 154.227
+tCubeLSH: 0.001988
+tReal: 0.014155
+Query: item_idS26
+item_id3012
+item_id5948
+Nearest neighbor: item_id5948
+distanceCubeLSH: 286.568
+distanceTrue: 271.61
+tCubeLSH: 0.00218
+tReal: 0.014147
+Query: item_idS27
+item_id8040
+item_id1277
+item_id3051
+item_id2994
+item_id8700
+Nearest neighbor: item_id3051
+distanceCubeLSH: 266.831
+distanceTrue: 183.442
+tCubeLSH: 0.000647
+tReal: 0.014156
+Query: item_idS28
+item_id4216
+item_id9208
+item_id4657
+item_id2610
+item_id5964
+item_id4683
+item_id2221
+item_id6423
+item_id4004
+item_id5089
+item_id4840
+item_id3012
+item_id2919
+item_id2073
+item_id1527
+item_id1145
+item_id5912
+item_id5304
+item_id8650
+item_id4606
+item_id5113
+Nearest neighbor: item_id5964
+distanceCubeLSH: 175.516
+distanceTrue: 175.516
+tCubeLSH: 0.001556
+tReal: 0.01422
+Query: item_idS29
+item_id5274
+item_id4878
+item_id4695
+item_id4583
+item_id8921
+item_id8719
+item_id8223
+item_id1068
+item_id4563
+item_id8519
+item_id9185
+item_id5644
+item_id5224
+item_id4862
+item_id4821
+item_id9986
+item_id9334
+item_id8503
+item_id7807
+item_id7806
+item_id7642
+item_id6521
+item_id6503
+item_id5407
+item_id4702
+item_id4314
+item_id3484
+item_id1525
+item_id766
+item_id2071
+item_id1261
+item_id353
+Nearest neighbor: item_id7806
+distanceCubeLSH: 247.681
+distanceTrue: 224.86
+tCubeLSH: 0.001602
+tReal: 0.014146
+Query: item_idS30
+item_id5615
+item_id8790
+item_id6955
+item_id4826
+item_id6329
+item_id6103
+item_id5993
+item_id5464
+item_id2048
+item_id8052
+item_id4804
+item_id7678
+item_id7592
+item_id5454
+item_id3191
+item_id1529
+Nearest neighbor: item_id5454
+distanceCubeLSH: 125.379
+distanceTrue: 125.379
+tCubeLSH: 0.002596
+tReal: 0.014203
+Query: item_idS31
+item_id3369
+item_id2828
+item_id181
+item_id4862
+item_id4699
+item_id5381
+item_id873
+item_id5653
+item_id4652
+item_id9414
+item_id4689
+item_id1904
+item_id554
+item_id1548
+item_id5939
+item_id4497
+item_id4478
+item_id207
+Nearest neighbor: item_id5939
+distanceCubeLSH: 276.798
+distanceTrue: 265.377
+tCubeLSH: 0.003046
+tReal: 0.014193
+Query: item_idS32
+item_id5560
+item_id4996
+item_id4963
+item_id432
+Nearest neighbor: item_id5560
+distanceCubeLSH: 109.192
+distanceTrue: 109.192
+tCubeLSH: 0.002285
+tReal: 0.014124
+Query: item_idS33
+item_id1233
+item_id4840
+item_id3012
+item_id8913
+item_id8664
+item_id5301
+item_id6904
+item_id585
+item_id4574
+item_id9055
+item_id7456
+Nearest neighbor: item_id5301
+distanceCubeLSH: 187.563
+distanceTrue: 187.563
+tCubeLSH: 0.001618
+tReal: 0.014156
+Query: item_idS34
+Nearest neighbor: item_id8151
+distanceCubeLSH: 351.409
+distanceTrue: 328.279
+tCubeLSH: 0.00106
+tReal: 0.014149
+Query: item_idS35
+item_id6801
+item_id5717
+item_id3051
+item_id5878
+item_id1819
+item_id4779
+item_id5716
+item_id4497
+item_id4478
+Nearest neighbor: item_id5716
+distanceCubeLSH: 274.829
+distanceTrue: 248.554
+tCubeLSH: 0.002047
+tReal: 0.014168
+Query: item_idS36
+item_id3365
+Nearest neighbor: item_id3365
+distanceCubeLSH: 292.57
+distanceTrue: 120.975
+tCubeLSH: 0.001014
+tReal: 0.014208
+Query: item_idS37
+item_id6709
+Nearest neighbor: item_id6709
+distanceCubeLSH: 159.909
+distanceTrue: 111.459
+tCubeLSH: 0.002791
+tReal: 0.01412
+Query: item_idS38
+item_id5185
+Nearest neighbor: item_id5185
+distanceCubeLSH: 166.856
+distanceTrue: 166.856
+tCubeLSH: 0.001714
+tReal: 0.014225
+Query: item_idS39
+item_id5178
+item_id6188
+item_id5501
+Nearest neighbor: item_id5501
+distanceCubeLSH: 159.245
+distanceTrue: 156.359
+tCubeLSH: 0.001473
+tReal: 0.014183
+Query: item_idS40
+item_id7485
+item_id7208
+item_id7007
+item_id6739
+item_id5775
+item_id5435
+item_id5338
+item_id5173
+item_id5075
+item_id4866
+item_id4844
+item_id4762
+item_id4678
+item_id3236
+item_id1339
+item_id9911
+item_id9891
+item_id9060
+item_id7998
+item_id7042
+item_id6596
+item_id6410
+item_id5650
+item_id4475
+item_id4225
+item_id2387
+item_id2258
+item_id1995
+item_id1146
+item_id236
+item_id231
+item_id9877
+item_id9801
+item_id9467
+item_id8606
+item_id7964
+item_id7676
+item_id7583
+item_id7416
+item_id7339
+item_id6912
+item_id6908
+item_id6757
+item_id6747
+item_id6632
+item_id6561
+item_id6381
+item_id6289
+item_id6076
+item_id6050
+item_id6047
+item_id5926
+item_id5884
+item_id5812
+item_id5789
+item_id5713
+item_id5533
+item_id5460
+item_id5439
+item_id5281
+item_id5005
+item_id4691
+item_id4566
+item_id4108
+item_id3504
+item_id8267
+item_id6125
+item_id5234
+item_id5201
+item_id5128
+item_id4814
+item_id4735
+item_id4693
+item_id4576
+item_id3818
+item_id2197
+item_id879
+item_id7253
+item_id5477
+item_id5002
+item_id1946
+item_id1821
+item_id8127
+item_id8039
+item_id7876
+item_id7739
+item_id6430
+item_id6408
+item_id6164
+item_id5913
+item_id5488
+item_id5335
+item_id5236
+item_id9895
+item_id8908
+item_id7168
+item_id6916
+item_id6441
+item_id6405
+item_id5122
+item_id4460
+item_id3107
+item_id2168
+item_id1718
+item_id1662
+item_id866
+item_id811
+item_id9893
+item_id9875
+item_id8647
+item_id6498
+item_id5777
+item_id5557
+item_id5238
+item_id4820
+item_id2483
+item_id1915
+item_id1892
+item_id1782
+item_id1290
+item_id1181
+item_id197
+item_id14
+item_id9869
+item_id9842
+item_id9156
+item_id8343
+item_id7003
+item_id6812
+item_id5311
+item_id1653
+item_id70
+item_id4832
+item_id4418
+Nearest neighbor: item_id4678
+distanceCubeLSH: 193.977
+distanceTrue: 193.977
+tCubeLSH: 0.00134
+tReal: 0.014182
+Query: item_idS41
+item_id4868
+item_id4774
+item_id5164
+item_id4615
+Nearest neighbor: item_id4774
+distanceCubeLSH: 185.373
+distanceTrue: 153.564
+tCubeLSH: 0.000654
+tReal: 0.014201
+Query: item_idS42
+item_id9958
+item_id3368
+item_id561
+item_id441
+item_id7703
+item_id1888
+item_id9925
+item_id9663
+item_id3972
+item_id9646
+item_id1302
+item_id7548
+item_id4968
+item_id860
+item_id6834
+item_id6660
+item_id9977
+item_id9888
+item_id9834
+item_id9194
+item_id8871
+item_id8533
+item_id7849
+item_id7800
+item_id7251
+item_id6687
+item_id5393
+item_id5127
+item_id5067
+item_id4920
+item_id4815
+item_id4580
+item_id4444
+item_id8838
+item_id468
+item_id7282
+item_id8596
+item_id8372
+item_id5500
+item_id4384
+item_id2251
+Nearest neighbor: item_id441
+distanceCubeLSH: 206.649
+distanceTrue: 200.494
+tCubeLSH: 0.002697
+tReal: 0.014199
+Query: item_idS43
+item_id9921
+item_id5571
+item_id2258
+item_id1496
+item_id6868
+item_id5176
+item_id5225
+item_id5205
+item_id1718
+item_id1782
+item_id8466
+item_id8138
+item_id6748
+Nearest neighbor: item_id5225
+distanceCubeLSH: 236.772
+distanceTrue: 236.772
+tCubeLSH: 0.002003
+tReal: 0.014183
+Query: item_idS44
+item_id5220
+item_id5145
+item_id5030
+item_id6303
+item_id6934
+item_id6417
+item_id5588
+item_id5177
+item_id766
+Nearest neighbor: item_id6303
+distanceCubeLSH: 165.339
+distanceTrue: 165.339
+tCubeLSH: 0.002237
+tReal: 0.014191
+Query: item_idS45
+item_id323
+item_id5392
+Nearest neighbor: item_id323
+distanceCubeLSH: 260.898
+distanceTrue: 256.353
+tCubeLSH: 0.001739
+tReal: 0.014172
+Query: item_idS46
+item_id1767
+Nearest neighbor: item_id1767
+distanceCubeLSH: 282.073
+distanceTrue: 261.362
+tCubeLSH: 0.001381
+tReal: 0.014188
+Query: item_idS47
+item_id8693
+item_id5881
+item_id5858
+item_id9670
+item_id9161
+item_id8870
+item_id8607
+item_id8228
+item_id3449
+item_id1848
+item_id9229
+item_id8489
+item_id7852
+item_id6513
+item_id3840
+item_id3437
+item_id9001
+item_id7557
+item_id7110
+item_id7065
+item_id6901
+item_id5767
+item_id5491
+item_id2411
+item_id6285
+item_id9453
+item_id7692
+item_id7243
+item_id8350
+item_id6672
+item_id6496
+Nearest neighbor: item_id5881
+distanceCubeLSH: 99.6293
+distanceTrue: 99.6293
+tCubeLSH: 0.00232
+tReal: 0.014096
+Query: item_idS48
+Nearest neighbor: item_id1885
+distanceCubeLSH: 334.818
+distanceTrue: 294.394
+tCubeLSH: 0.002323
+tReal: 0.014157
+Query: item_idS49
+item_id5773
+item_id5751
+item_id5438
+Nearest neighbor: item_id5751
+distanceCubeLSH: 215.634
+distanceTrue: 155.763
+tCubeLSH: 0.000933
+tReal: 0.01413
+Query: item_idS50
+item_id9474
+item_id6215
+item_id4663
+item_id9610
+item_id4744
+item_id4743
+item_id3542
+item_id1232
+item_id254
+item_id80
+item_id5862
+item_id5541
+item_id5526
+item_id5132
+item_id5086
+item_id4854
+item_id4597
+item_id2512
+item_id1414
+item_id119
+item_id5297
+item_id4889
+item_id4822
+item_id4704
+item_id4512
+item_id7843
+item_id7574
+item_id5597
+item_id5166
+item_id5085
+item_id32
+item_id9522
+item_id8445
+item_id6231
+item_id8590
+item_id8190
+item_id4549
+item_id60
+item_id5939
+item_id5542
+item_id4694
+item_id4506
+item_id4481
+item_id4478
+item_id3011
+item_id2072
+item_id1358
+item_id5139
+item_id4828
+item_id106
+item_id59
+item_id55
+item_id3979
+item_id1860
+item_id9707
+item_id9623
+item_id608
+item_id6401
+item_id6267
+item_id5760
+item_id4798
+item_id206
+item_id9398
+item_id9384
+item_id7184
+item_id5380
+item_id5048
+item_id4739
+item_id4710
+item_id4709
+item_id4705
+item_id4664
+item_id4561
+item_id4491
+item_id4458
+Nearest neighbor: item_id5085
+distanceCubeLSH: 128.783
+distanceTrue: 128.783
+tCubeLSH: 0.001476
+tReal: 0.014206
+Query: item_idS51
+item_id5013
+Nearest neighbor: item_id5013
+distanceCubeLSH: 199.605
+distanceTrue: 181.141
+tCubeLSH: 0.002644
+tReal: 0.014127
+Query: item_idS52
+item_id6193
+item_id7005
+item_id3518
+item_id7419
+item_id5073
+Nearest neighbor: item_id6193
+distanceCubeLSH: 200.4
+distanceTrue: 130.813
+tCubeLSH: 0.001541
+tReal: 0.014576
+Query: item_idS53
+item_id9619
+item_id9549
+item_id9530
+item_id7840
+item_id6107
+item_id5388
+item_id5057
+item_id4864
+item_id4651
+item_id4496
+item_id2582
+item_id58
+item_id9458
+item_id8719
+item_id8223
+item_id1724
+item_id9434
+item_id8146
+item_id4798
+item_id1145
+item_id8891
+item_id5904
+item_id5247
+item_id4875
+item_id2917
+item_id1781
+item_id1289
+item_id1180
+item_id5732
+item_id8231
+item_id7118
+item_id9103
+item_id8646
+item_id8613
+item_id7859
+item_id7165
+item_id4794
+item_id4548
+item_id4508
+item_id1726
+item_id604
+item_id86
+item_id5008
+item_id3335
+item_id2708
+item_id79
+item_id8048
+item_id6434
+item_id5180
+item_id1525
+item_id2071
+item_id4717
+item_id4626
+item_id2257
+item_id537
+item_id113
+item_id1129
+item_id4507
+item_id6383
+item_id2613
+Nearest neighbor: item_id2257
+distanceCubeLSH: 225.717
+distanceTrue: 198.776
+tCubeLSH: 0.001517
+tReal: 0.014157
+Query: item_idS54
+item_id6216
+item_id5879
+item_id5611
+item_id6456
+item_id5513
+item_id8383
+item_id8540
+item_id5730
+item_id4964
+item_id6416
+item_id4807
+item_id6506
+item_id5960
+item_id8613
+item_id4794
+item_id4548
+item_id4508
+Nearest neighbor: item_id8613
+distanceCubeLSH: 194.178
+distanceTrue: 194.178
+tCubeLSH: 0.001137
+tReal: 0.014195
+Query: item_idS55
+item_id9002
+item_id7935
+item_id7825
+item_id7285
+item_id7068
+item_id6710
+item_id6461
+item_id6459
+item_id6376
+item_id6284
+item_id6168
+item_id6159
+item_id5401
+item_id5038
+item_id4644
+item_id4565
+item_id2667
+item_id9492
+item_id9286
+item_id8117
+item_id7893
+item_id5766
+item_id5518
+item_id4068
+item_id2499
+item_id48
+item_id6834
+item_id6660
+item_id9977
+item_id9888
+item_id9834
+item_id9194
+item_id8871
+item_id8486
+item_id7849
+item_id7800
+item_id6692
+item_id6687
+item_id5393
+item_id5127
+item_id5067
+item_id4920
+item_id4815
+item_id4580
+item_id9989
+item_id6053
+item_id5924
+item_id8015
+item_id6677
+item_id5552
+item_id5450
+item_id3744
+item_id8220
+item_id7746
+item_id7597
+item_id7178
+item_id6984
+item_id6650
+item_id6612
+item_id6316
+item_id4896
+item_id4799
+item_id4746
+item_id2685
+item_id7392
+item_id6820
+item_id6646
+item_id6160
+item_id6011
+item_id5481
+item_id100
+item_id82
+item_id6207
+item_id8372
+item_id5891
+item_id5763
+item_id5500
+item_id4384
+item_id6571
+item_id6411
+item_id6286
+item_id8741
+item_id8617
+item_id8108
+item_id8543
+item_id6679
+item_id7958
+item_id7705
+item_id5360
+item_id9958
+item_id561
+item_id441
+Nearest neighbor: item_id6159
+distanceCubeLSH: 159.308
+distanceTrue: 159.308
+tCubeLSH: 0.001552
+tReal: 0.01419
+Query: item_idS56
+item_id5500
+item_id7703
+item_id7229
+item_id6253
+item_id6000
+item_id9981
+item_id7307
+item_id6292
+item_id8117
+item_id5766
+item_id5518
+item_id5975
+item_id8871
+Nearest neighbor: item_id5500
+distanceCubeLSH: 197.914
+distanceTrue: 184.043
+tCubeLSH: 0.001958
+tReal: 0.014164
+Query: item_idS57
+item_id9885
+item_id9334
+item_id9186
+item_id8972
+item_id8500
+item_id7807
+item_id7806
+item_id7642
+item_id7310
+item_id7264
+item_id6932
+item_id6503
+item_id6415
+item_id5977
+item_id5555
+item_id5407
+item_id4730
+item_id4726
+item_id4702
+item_id4596
+item_id4553
+item_id4539
+item_id4464
+item_id4314
+item_id3468
+item_id2941
+item_id2916
+item_id2404
+item_id1809
+item_id1526
+item_id1525
+item_id881
+item_id768
+item_id766
+item_id516
+item_id501
+item_id433
+item_id374
+item_id366
+item_id334
+item_id62
+item_id9559
+item_id9413
+item_id9215
+item_id8853
+item_id7643
+item_id7575
+item_id7422
+item_id7182
+item_id5783
+item_id5409
+item_id5093
+item_id4981
+item_id4958
+item_id4907
+item_id4904
+item_id4785
+item_id4779
+item_id4729
+item_id4715
+item_id4662
+item_id4582
+item_id4485
+item_id3823
+item_id2926
+item_id1727
+item_id1332
+item_id945
+item_id889
+item_id785
+item_id491
+item_id379
+item_id9612
+item_id9097
+item_id8382
+item_id7822
+item_id7573
+item_id7309
+item_id6501
+item_id6457
+item_id5856
+item_id4878
+item_id4873
+item_id4840
+item_id4703
+item_id4698
+item_id4695
+item_id4583
+item_id4392
+item_id3964
+item_id3913
+item_id3674
+item_id3424
+item_id3404
+item_id3164
+item_id2919
+item_id2829
+item_id2659
+item_id2077
+item_id2073
+item_id1769
+item_id1661
+item_id1622
+item_id1548
+item_id1527
+item_id946
+item_id784
+item_id609
+item_id562
+item_id476
+item_id9618
+item_id9548
+item_id7845
+item_id3034
+item_id1009
+item_id9458
+item_id8719
+item_id8223
+item_id8216
+item_id5979
+item_id4562
+item_id4107
+item_id1692
+item_id1068
+item_id251
+item_id8
+item_id2
+item_id9287
+item_id9115
+item_id8590
+item_id8190
+item_id5721
+item_id5432
+item_id5047
+item_id5003
+item_id4827
+item_id4738
+item_id4621
+item_id4549
+item_id4480
+item_id4396
+item_id60
+item_id8191
+item_id5542
+item_id4694
+item_id4506
+item_id4497
+item_id4481
+item_id2072
+item_id1358
+item_id207
+item_id9434
+item_id6934
+item_id6417
+item_id6354
+item_id6267
+item_id5652
+item_id5084
+item_id4798
+item_id4647
+item_id4640
+item_id2552
+item_id206
+item_id7298
+item_id5910
+item_id1827
+item_id1226
+item_id8899
+item_id5167
+item_id9305
+item_id9185
+item_id9020
+item_id7399
+item_id7236
+item_id7127
+item_id5644
+item_id5357
+item_id5260
+item_id5224
+item_id5163
+item_id5042
+item_id4821
+item_id4776
+item_id4699
+item_id4679
+item_id4646
+item_id746
+item_id9531
+item_id9528
+item_id9525
+item_id8895
+item_id5568
+item_id5122
+item_id4900
+item_id4876
+item_id4865
+item_id4568
+item_id3957
+item_id3421
+item_id1123
+item_id1055
+item_id621
+item_id332
+item_id4740
+item_id4569
+item_id2071
+item_id9418
+item_id5320
+item_id4778
+item_id4648
+item_id1916
+item_id557
+item_id118
+item_id116
+item_id104
+item_id9793
+item_id353
+Nearest neighbor: item_id4904
+distanceCubeLSH: 190.735
+distanceTrue: 190.735
+tCubeLSH: 0.002335
+tReal: 0.014156
+Query: item_idS58
+item_id9901
+item_id1627
+item_id329
+item_id1897
+item_id8213
+item_id7962
+item_id3645
+item_id1695
+item_id805
+item_id8214
+item_id2651
+item_id3228
+item_id7396
+item_id2784
+item_id1938
+item_id8887
+item_id5212
+item_id3770
+item_id3267
+item_id2946
+item_id1842
+item_id137
+item_id7375
+item_id2678
+item_id979
+Nearest neighbor: item_id5212
+distanceCubeLSH: 167.147
+distanceTrue: 167.147
+tCubeLSH: 0.000975
+tReal: 0.014187
+Query: item_idS59
+Nearest neighbor: item_id7654
+distanceCubeLSH: 323.589
+distanceTrue: 65.7419
+tCubeLSH: 0.001326
+tReal: 0.014196
+Query: item_idS60
+item_id9978
+item_id8107
+item_id7898
+item_id7686
+item_id7172
+item_id7098
+item_id6971
+item_id6799
+item_id6721
+item_id6712
+item_id6613
+item_id6377
+item_id6112
+item_id45
+item_id8371
+item_id7547
+item_id2206
+item_id9193
+item_id9001
+item_id8860
+item_id7814
+item_id7727
+item_id7683
+item_id7557
+item_id7110
+item_id7065
+item_id6999
+item_id6901
+item_id6835
+item_id6693
+item_id6649
+item_id6317
+item_id6208
+item_id6161
+item_id5491
+item_id5095
+item_id2722
+item_id2666
+item_id1309
+item_id721
+item_id99
+item_id37
+item_id8740
+item_id6640
+item_id8487
+item_id5845
+item_id5694
+item_id5656
+item_id9852
+item_id8306
+item_id8221
+item_id8118
+item_id7985
+item_id7934
+item_id7848
+item_id7842
+item_id7692
+item_id7243
+item_id6676
+item_id6659
+item_id6541
+item_id6460
+item_id6458
+item_id6283
+item_id6183
+item_id6167
+item_id6082
+item_id5553
+item_id5517
+item_id5400
+item_id4816
+item_id4643
+item_id4598
+item_id4579
+item_id4564
+item_id7704
+item_id7284
+item_id7179
+item_id6821
+item_id6647
+item_id6333
+item_id6071
+item_id5968
+item_id5672
+item_id5448
+item_id2922
+item_id2684
+item_id2373
+item_id2337
+item_id2295
+item_id1906
+item_id9889
+item_id7892
+item_id1347
+item_id49
+item_id8998
+item_id8511
+item_id6775
+item_id6483
+item_id6297
+item_id897
+item_id7367
+item_id9044
+item_id5566
+item_id7341
+item_id8675
+Nearest neighbor: item_id6835
+distanceCubeLSH: 114.416
+distanceTrue: 114.416
+tCubeLSH: 0.001899
+tReal: 0.014141
+Query: item_idS61
+item_id5279
+item_id9531
+item_id9528
+item_id9525
+item_id8895
+item_id3189
+item_id9562
+item_id9618
+item_id9548
+Nearest neighbor: item_id5279
+distanceCubeLSH: 170.309
+distanceTrue: 170.309
+tCubeLSH: 0.001588
+tReal: 0.014191
+Query: item_idS62
+item_id9721
+item_id8907
+item_id8565
+item_id5382
+item_id9973
+item_id5771
+item_id5340
+Nearest neighbor: item_id8565
+distanceCubeLSH: 151.993
+distanceTrue: 140.357
+tCubeLSH: 0.001047
+tReal: 0.014138
+Query: item_idS63
+item_id7487
+item_id6269
+item_id6364
+item_id6356
+item_id9810
+item_id7964
+item_id7766
+item_id7676
+item_id7416
+item_id7270
+item_id6912
+item_id6908
+item_id6805
+item_id6747
+item_id6632
+item_id6561
+item_id6381
+item_id6289
+item_id6047
+item_id5926
+item_id5812
+item_id5713
+item_id5533
+item_id5439
+item_id5005
+item_id7253
+Nearest neighbor: item_id6561
+distanceCubeLSH: 131.651
+distanceTrue: 131.651
+tCubeLSH: 0.001521
+tReal: 0.014153
+Query: item_idS64
+item_id9749
+item_id7819
+item_id6414
+item_id5363
+item_id5328
+item_id5230
+item_id5093
+item_id5054
+item_id3877
+item_id3037
+item_id2671
+item_id2536
+item_id865
+item_id8599
+item_id6322
+item_id4369
+item_id4359
+item_id3518
+item_id1304
+item_id987
+item_id415
+item_id9895
+item_id8482
+item_id7168
+item_id6916
+item_id6441
+item_id5755
+item_id5434
+item_id4460
+item_id3107
+item_id2168
+item_id1718
+item_id1662
+item_id9893
+item_id9875
+item_id6498
+item_id5777
+item_id2483
+item_id1892
+item_id1782
+item_id1290
+item_id1181
+item_id6813
+item_id5938
+item_id5897
+item_id297
+item_id9763
+item_id8704
+item_id8024
+item_id7519
+item_id7095
+item_id5864
+item_id5168
+item_id5097
+item_id3772
+item_id1478
+item_id1089
+Nearest neighbor: item_id6322
+distanceCubeLSH: 94.9158
+distanceTrue: 94.9158
+tCubeLSH: 0.002767
+tReal: 0.014136
+Query: item_idS65
+item_id9315
+item_id8342
+Nearest neighbor: item_id9315
+distanceCubeLSH: 262.903
+distanceTrue: 138.275
+tCubeLSH: 0.002558
+tReal: 0.014148
+Query: item_idS66
+item_id5120
+item_id817
+item_id7601
+item_id5655
+item_id860
+item_id7841
+item_id4178
+item_id3238
+item_id561
+item_id441
+Nearest neighbor: item_id7601
+distanceCubeLSH: 238.596
+distanceTrue: 173.381
+tCubeLSH: 0.001401
+tReal: 0.014488
+Query: item_idS67
+item_id1766
+item_id7083
+item_id5670
+item_id7347
+item_id5391
+item_id5243
+item_id3265
+Nearest neighbor: item_id5391
+distanceCubeLSH: 200.866
+distanceTrue: 200.866
+tCubeLSH: 0.002345
+tReal: 0.014122
+Query: item_idS68
+item_id6639
+item_id9034
+item_id6793
+item_id1931
+item_id8163
+item_id7882
+item_id5753
+Nearest neighbor: item_id8163
+distanceCubeLSH: 244.238
+distanceTrue: 224.225
+tCubeLSH: 0.001974
+tReal: 0.01418
+Query: item_idS69
+item_id7167
+item_id1090
+item_id8638
+item_id2257
+item_id537
+item_id9466
+item_id8181
+item_id6742
+item_id5196
+item_id3237
+item_id1822
+item_id7944
+item_id1479
+item_id5006
+item_id1724
+Nearest neighbor: item_id1479
+distanceCubeLSH: 201.336
+distanceTrue: 201.311
+tCubeLSH: 0.002434
+tReal: 0.014133
+Query: item_idS70
+item_id5716
+Nearest neighbor: item_id5716
+distanceCubeLSH: 293.162
+distanceTrue: 266.813
+tCubeLSH: 0.002322
+tReal: 0.014154
+Query: item_idS71
+item_id9974
+item_id8639
+item_id8609
+item_id8100
+item_id5922
+item_id683
+item_id7029
+item_id5704
+item_id4054
+item_id2433
+item_id9810
+item_id6265
+item_id5465
+item_id4610
+item_id4608
+item_id4557
+item_id2049
+item_id9877
+item_id9801
+item_id9467
+item_id8606
+item_id8359
+item_id7964
+item_id7766
+item_id7676
+item_id7583
+item_id7416
+item_id7339
+item_id7270
+item_id6912
+item_id6908
+item_id6848
+item_id6805
+item_id6757
+item_id6747
+item_id6632
+item_id6561
+item_id6381
+item_id6289
+item_id6076
+item_id6050
+item_id6047
+item_id6030
+item_id5963
+item_id5926
+item_id5884
+item_id5812
+item_id5789
+item_id5713
+item_id5533
+item_id5460
+item_id5439
+item_id5281
+item_id5005
+item_id4691
+item_id4566
+item_id8698
+item_id8267
+item_id6125
+item_id5234
+item_id5201
+item_id4576
+item_id879
+item_id8777
+item_id8455
+item_id6997
+item_id6431
+item_id5828
+item_id5455
+item_id2298
+item_id1926
+item_id6745
+item_id6609
+item_id5803
+item_id9895
+item_id8908
+item_id8020
+item_id7593
+item_id6439
+item_id6405
+item_id5469
+item_id5296
+item_id5122
+item_id3556
+item_id3169
+item_id866
+item_id5238
+Nearest neighbor: item_id6125
+distanceCubeLSH: 46.8188
+distanceTrue: 46.8188
+tCubeLSH: 0.002939
+tReal: 0.014154
+Query: item_idS72
+item_id5457
+item_id4925
+item_id5635
+Nearest neighbor: item_id5635
+distanceCubeLSH: 272.754
+distanceTrue: 193.675
+tCubeLSH: 0.001631
+tReal: 0.014168
+Query: item_idS73
+Nearest neighbor: item_id4316
+distanceCubeLSH: 322.633
+distanceTrue: 303.211
+tCubeLSH: 0.001386
+tReal: 0.01415
+Query: item_idS74
+item_id4241
+Nearest neighbor: item_id4241
+distanceCubeLSH: 289.595
+distanceTrue: 230.458
+tCubeLSH: 0.001828
+tReal: 0.014151
+Query: item_idS75
+item_id9883
+item_id8217
+item_id7365
+item_id5018
+item_id5009
+item_id4795
+item_id4593
+item_id4509
+item_id3546
+item_id3373
+item_id3311
+item_id1425
+item_id745
+item_id18
+item_id9559
+item_id9413
+item_id9215
+item_id7643
+item_id7575
+item_id7550
+item_id7422
+item_id7182
+item_id5997
+item_id5783
+item_id5596
+item_id5409
+item_id5328
+item_id5093
+item_id4983
+item_id4981
+item_id4958
+item_id4904
+item_id4785
+item_id4779
+item_id4729
+item_id4715
+item_id4662
+item_id4582
+item_id4485
+item_id3189
+item_id1890
+item_id1871
+item_id1727
+item_id945
+item_id889
+item_id785
+item_id623
+item_id554
+item_id491
+item_id8721
+item_id5609
+item_id4830
+item_id4591
+item_id4505
+item_id8590
+item_id8190
+item_id6021
+item_id5432
+item_id4621
+item_id4549
+item_id4480
+item_id1375
+item_id60
+item_id6784
+item_id5058
+item_id3520
+item_id2258
+item_id236
+item_id7328
+item_id6416
+item_id5556
+item_id4807
+item_id5139
+item_id4828
+item_id163
+item_id106
+item_id59
+item_id9398
+item_id9356
+item_id7184
+item_id6502
+item_id5380
+item_id5222
+item_id4926
+item_id4742
+item_id4739
+item_id4705
+item_id4664
+item_id4614
+item_id4561
+item_id4513
+item_id7921
+item_id7851
+item_id7125
+item_id6217
+item_id5019
+item_id2615
+item_id10
+item_id9305
+item_id7399
+item_id5969
+item_id5644
+item_id5260
+item_id5224
+item_id5163
+item_id5042
+item_id4862
+item_id4821
+item_id4699
+item_id4679
+item_id4646
+item_id4359
+item_id1859
+item_id1749
+item_id9986
+item_id9334
+item_id9186
+item_id8972
+item_id8503
+item_id8500
+item_id7860
+item_id7807
+item_id7806
+item_id7642
+item_id7264
+item_id6932
+item_id6801
+item_id6521
+item_id6503
+item_id6415
+item_id5977
+item_id5407
+item_id4702
+item_id4674
+item_id4596
+item_id4553
+item_id4464
+item_id4314
+item_id3484
+item_id3468
+item_id2941
+item_id2400
+item_id1526
+item_id1525
+item_id881
+item_id766
+item_id374
+item_id334
+item_id62
+item_id9531
+item_id9528
+item_id9525
+item_id8895
+item_id8624
+item_id7495
+item_id5122
+item_id4900
+item_id4876
+item_id1718
+item_id1662
+item_id1084
+item_id621
+item_id332
+item_id4740
+item_id2071
+item_id9299
+item_id6491
+item_id5838
+item_id5634
+item_id1660
+item_id1547
+item_id1136
+item_id7744
+Nearest neighbor: item_id7365
+distanceCubeLSH: 131.095
+distanceTrue: 131.095
+tCubeLSH: 0.003039
+tReal: 0.014123
+Query: item_idS76
+item_id6298
+Nearest neighbor: item_id6298
+distanceCubeLSH: 297.792
+distanceTrue: 212.061
+tCubeLSH: 0.001819
+tReal: 0.014193
+Query: item_idS77
+item_id7904
+item_id7368
+item_id3109
+item_id1391
+item_id1111
+Nearest neighbor: item_id7904
+distanceCubeLSH: 251.257
+distanceTrue: 251.257
+tCubeLSH: 0.002972
+tReal: 0.014189
+Query: item_idS78
+Nearest neighbor: item_id3291
+distanceCubeLSH: 320.893
+distanceTrue: 293.716
+tCubeLSH: 0.000868
+tReal: 0.014164
+Query: item_idS79
+item_id5407
+item_id8895
+item_id9793
+item_id8665
+item_id4658
+item_id8719
+item_id4555
+Nearest neighbor: item_id9793
+distanceCubeLSH: 245.516
+distanceTrue: 226.868
+tCubeLSH: 0.002988
+tReal: 0.019457
+Query: item_idS80
+item_id8070
+item_id7490
+item_id7081
+item_id5953
+item_id8487
+item_id5845
+item_id5694
+item_id5656
+item_id7507
+item_id7281
+item_id7077
+item_id6020
+item_id5661
+item_id9730
+item_id7704
+item_id7284
+item_id7179
+item_id6821
+item_id6647
+item_id6333
+item_id6071
+item_id5968
+item_id2373
+item_id2337
+item_id2295
+item_id1906
+item_id8090
+item_id3522
+item_id9978
+item_id7898
+item_id7172
+item_id6971
+item_id6799
+item_id6721
+item_id6613
+item_id6377
+item_id6112
+item_id45
+Nearest neighbor: item_id6071
+distanceCubeLSH: 148.165
+distanceTrue: 148.165
+tCubeLSH: 0.000705
+tReal: 0.015119
+Query: item_idS81
+Nearest neighbor: item_id6253
+distanceCubeLSH: 320.4
+distanceTrue: 146.311
+tCubeLSH: 0.001723
+tReal: 0.014677
+Query: item_idS82
+Nearest neighbor: item_id905
+distanceCubeLSH: 317.221
+distanceTrue: 276.819
+tCubeLSH: 0.001194
+tReal: 0.014205
+Query: item_idS83
+item_id52
+item_id1134
+item_id91
+Nearest neighbor: item_id52
+distanceCubeLSH: 273.892
+distanceTrue: 271.982
+tCubeLSH: 0.002975
+tReal: 0.014333
+Query: item_idS84
+item_id9951
+item_id4673
+item_id8481
+item_id6383
+item_id8978
+item_id972
+Nearest neighbor: item_id8481
+distanceCubeLSH: 237.668
+distanceTrue: 181.607
+tCubeLSH: 0.001063
+tReal: 0.014284
+Query: item_idS85
+item_id9562
+item_id1089
+item_id5644
+item_id9531
+item_id9525
+item_id8895
+item_id5568
+item_id5122
+item_id4900
+item_id3019
+item_id9465
+item_id1903
+item_id5880
+item_id1957
+item_id785
+item_id9097
+item_id8382
+item_id5856
+item_id3404
+item_id1252
+item_id9618
+Nearest neighbor: item_id8895
+distanceCubeLSH: 192.678
+distanceTrue: 192.678
+tCubeLSH: 0.001936
+tReal: 0.014254
+Query: item_idS86
+item_id8355
+Nearest neighbor: item_id8355
+distanceCubeLSH: 285.107
+distanceTrue: 285.107
+tCubeLSH: 0.002597
+tReal: 0.01424
+Query: item_idS87
+item_id6751
+item_id7326
+item_id8163
+Nearest neighbor: item_id6751
+distanceCubeLSH: 265.055
+distanceTrue: 224.907
+tCubeLSH: 0.002699
+tReal: 0.014274
+Query: item_idS88
+item_id7715
+item_id9152
+item_id7723
+item_id6588
+Nearest neighbor: item_id7723
+distanceCubeLSH: 123.56
+distanceTrue: 123.56
+tCubeLSH: 0.000915
+tReal: 0.014247
+Query: item_idS89
+item_id9225
+item_id8900
+item_id8104
+item_id7099
+item_id7066
+item_id6902
+item_id6830
+item_id6639
+item_id6370
+item_id5447
+item_id6327
+item_id8676
+item_id6713
+item_id5902
+item_id5870
+item_id7793
+item_id9455
+item_id9034
+item_id8720
+item_id6966
+item_id5600
+item_id5882
+Nearest neighbor: item_id7099
+distanceCubeLSH: 75.08
+distanceTrue: 75.08
+tCubeLSH: 0.00201
+tReal: 0.014221
+Query: item_idS90
+item_id4067
+item_id2036
+item_id9080
+item_id7531
+item_id3152
+item_id2498
+item_id47
+item_id7304
+Nearest neighbor: item_id2498
+distanceCubeLSH: 211.374
+distanceTrue: 114.534
+tCubeLSH: 0.001043
+tReal: 0.014239
+Query: item_idS91
+item_id8973
+item_id8501
+item_id1359
+item_id9259
+item_id6448
+item_id5651
+item_id936
+item_id205
+item_id8721
+item_id4830
+item_id4591
+item_id4505
+item_id278
+item_id7328
+item_id6416
+item_id5556
+item_id4807
+item_id4585
+item_id4570
+item_id9171
+item_id4605
+item_id4595
+item_id61
+item_id5209
+item_id4856
+item_id4706
+item_id2423
+item_id1674
+item_id905
+item_id874
+item_id4642
+item_id9020
+item_id7348
+item_id5366
+item_id5357
+item_id5260
+item_id5042
+item_id4821
+item_id4776
+item_id4699
+item_id4679
+item_id4646
+item_id1651
+item_id993
+item_id746
+item_id161
+item_id4740
+item_id4569
+item_id2071
+item_id9418
+item_id5947
+item_id5622
+item_id5320
+item_id4778
+item_id4648
+item_id3962
+item_id1916
+item_id1233
+item_id118
+item_id104
+item_id8217
+item_id5170
+item_id5018
+item_id4593
+item_id3546
+item_id9417
+item_id9299
+item_id9258
+item_id8215
+item_id7631
+item_id7024
+item_id6491
+item_id6403
+item_id4402
+item_id3165
+item_id1660
+item_id1547
+item_id208
+item_id7744
+Nearest neighbor: item_id9259
+distanceCubeLSH: 50.4579
+distanceTrue: 50.4579
+tCubeLSH: 0.002104
+tReal: 0.014209
+Query: item_idS92
+Nearest neighbor: item_id3938
+distanceCubeLSH: 314.189
+distanceTrue: 298.027
+tCubeLSH: 0.00278
+tReal: 0.014656
+Query: item_idS93
+item_id8357
+item_id957
+item_id7798
+Nearest neighbor: item_id8357
+distanceCubeLSH: 141.464
+distanceTrue: 141.464
+tCubeLSH: 0.002076
+tReal: 0.01422
+Query: item_idS94
+item_id6124
+item_id7168
+item_id6916
+item_id5755
+item_id5434
+item_id3107
+item_id1662
+item_id8201
+item_id7157
+item_id5054
+item_id1275
+item_id7345
+item_id5992
+item_id5864
+item_id5258
+item_id5168
+item_id5097
+item_id3772
+item_id1655
+item_id1478
+item_id1089
+item_id3749
+Nearest neighbor: item_id1089
+distanceCubeLSH: 258.339
+distanceTrue: 234.774
+tCubeLSH: 0.001333
+tReal: 0.014212
+Query: item_idS95
+item_id8420
+item_id4054
+item_id7593
+item_id3556
+item_id8609
+item_id8100
+Nearest neighbor: item_id8420
+distanceCubeLSH: 160.571
+distanceTrue: 160.571
+tCubeLSH: 0.00278
+tReal: 0.014244
+Query: item_idS96
+Nearest neighbor: item_id2319
+distanceCubeLSH: 334.513
+distanceTrue: 305.392
+tCubeLSH: 0.002236
+tReal: 0.014235
+Query: item_idS97
+Nearest neighbor: item_id2729
+distanceCubeLSH: 328.452
+distanceTrue: 285.79
+tCubeLSH: 0.000615
+tReal: 0.014242
+Query: item_idS98
+Nearest neighbor: item_id9082
+distanceCubeLSH: 303.745
+distanceTrue: 233.532
+tCubeLSH: 0.002962
+tReal: 0.014691
+Query: item_idS99
+item_id7675
+item_id5811
+item_id5774
+item_id5489
+item_id2196
+item_id2167
+item_id8019
+item_id7738
+item_id7415
+item_id6633
+item_id5532
+item_id8883
+item_id8152
+item_id7963
+item_id5265
+Nearest neighbor: item_id5811
+distanceCubeLSH: 138.964
+distanceTrue: 137.43
+tCubeLSH: 0.000807
+tReal: 0.014234
+Query: item_idS100
+Nearest neighbor: item_id4768
+distanceCubeLSH: 308.608
+distanceTrue: 184.613
+tCubeLSH: 0.00194
+tReal: 0.014267
